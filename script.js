@@ -9,7 +9,7 @@ const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 const doubleNumbers = numbers.map(a => a * 2);
 console.log(numbers);
 console.log(doubleNumbers);
-console.log('');
+
 
 
 //Funkcję JS, która przyjmuje jako dane wejściowe tablicę obiektów reprezentujących studentów 
